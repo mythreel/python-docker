@@ -1,0 +1,8 @@
+-
+    path: '/'
+    controller: 'Main'
+    handler: 'index'
+-
+    path: '/test'
+    controller: 'Main'
+    handler: 'test'
